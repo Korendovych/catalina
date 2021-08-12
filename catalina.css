@@ -710,7 +710,7 @@ div.dropdown{
 			padding-bottom: 4%;
 			padding-top: 5%;
 			} 
-	#text{ padding-top: 2%;}
+	#text{ padding-top: 5px;}
 
 	#cont1{
 		padding-top: 4%;
@@ -720,7 +720,7 @@ div.dropdown{
 		text-align: left;
 		font-size: 90%;
 		float: left;
-		width:40%;
+		width:30%;
 		color: #000000;
 	}	   
 
@@ -732,7 +732,7 @@ div.dropdown{
 		padding-right: 2%;
 		text-align: right;
 		float: right;
-		width:40%;
+		width:50%;
 		color: #000000;
 	}	
 
