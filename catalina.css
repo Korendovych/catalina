@@ -453,8 +453,8 @@ div.dropdown{
 	display: inline;
 	padding-left: 0%;
 	padding-right: 0%;
-	margin-left: 0%;
-	margin-right: 0%;
+	margin-left: 2%;
+	margin-right: 2%;
 	z-index: 1;
 	height: 100%;
 	color: #5D5C61;
@@ -707,7 +707,7 @@ div.dropdown{
 		   background-image: url(img/euro.png);
 		   background-repeat: no-repeat;
 		   background-position: right top;
-		   background-size: 70% 80%;
+		   background-size: 60% 60%;
 		   }
 	#div6{ width: 20%;
 			float: right;
@@ -716,7 +716,7 @@ div.dropdown{
 			background-image: url(img/calendar.png);
 			background-repeat: no-repeat;
 			background-position: right top;
-			background-size: 70% 80%;
+			background-size: 60% 60%;
 			}	
     #div7{ width: 20%;
 		   margin: 0% auto;
@@ -725,7 +725,7 @@ div.dropdown{
 		   background-image: url(img/bien.png);
 		   background-repeat: no-repeat;
 		   background-position: right top;
-		   background-size: 70% 80%;
+		   background-size: 60% 60%;
 		   }  
    
 		
