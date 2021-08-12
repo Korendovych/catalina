@@ -451,15 +451,15 @@ div.dropdown{
 	padding-top: 0%;
 	list-style-type: none;
 	display: inline;
-	padding-left: 1%;
-	padding-right: 1%;
+	padding-left: 0%;
+	padding-right: 0%;
 	margin-left: 0%;
 	margin-right: 0%;
 	z-index: 1;
 	height: 100%;
 	color: #5D5C61;
 	text-shadow: 1px 1px 0.5px 0.5px;
-	font-size: 90%;
+	font-size: 80%;
 }	
 
 .dropbtn {
