@@ -734,7 +734,7 @@ div.dropdown{
 	#div7:hover  {background-image: url(img/bien2.png);}  
 
 
-	#adic2{ width: 100%;
+	#adic2{ width: 90%;
 			margin: 0% auto;
 			padding-left: 2%;
 			padding-right: 2%;
@@ -749,21 +749,21 @@ div.dropdown{
 		padding-left: 2%;
 		padding-right: 0%;
 		text-align: left;
-		font-size: 90%;
+		font-size: 80%;
 		float: left;
-		width:49%;
+		width:45%;
 		color: #000000;
 	}	   
 
 	#cont2{
-		font-size: 100%;
+		font-size: 90%;
 		padding-top: 4%;
 		padding-bottom: 0%;
 		padding-left: 0%;
 		padding-right: 2%;
 		text-align: right;
 		float: right;
-		width:49%;
+		width:45%;
 		color: #000000;
 	}	
 
