@@ -439,14 +439,28 @@ div.dropdown{
 @media (max-width: 767px) and (min-width: 0px) {
 	*{box-sizing: border-box;}	
 
-.navbar{
-	display: none;
-}
+
 	
 #logo2{
 	display: none;
 }
 	
+#icon {
+	padding-bottom: 0.5%;
+	margin-bottom: 0%;
+	padding-top: 0%;
+	list-style-type: none;
+	display: inline;
+	padding-left: 1%;
+	padding-right: 1%;
+	margin-left: 0%;
+	margin-right: 0%;
+	z-index: 1;
+	height: 100%;
+	color: #5D5C61;
+	text-shadow: 1px 1px 0.5px 0.5px;
+	font-size: 90%;
+}	
 
 .dropbtn {
 	background-color: white;
