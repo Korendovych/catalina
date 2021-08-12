@@ -436,11 +436,10 @@ div.dropdown{
 
 
 
-@media only screen and (max-width: 1199px) and (min-width: 0px) {
+@media only screen and (max-width: 3199px) and (min-width: 0px) {
 	*{box-sizing: border-box;}	
 
-
-nav.navbar{
+.navbar{
 	display: none;
 }
 
