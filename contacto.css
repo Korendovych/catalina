@@ -307,13 +307,14 @@ ul {
 #f1{padding-top: 3%;
     padding-bottom: 0%;
     padding-left: 25%;
-    font-size: 120%;
+    font-size: 110%;
     color: #5D5C61;
 	}
 
 #f2{padding-top: 3%;
     padding-bottom: 0%;
     font-size: 100%;	
+    text-decoration: none;
 }
 
 #f3{padding-top: 3%;
@@ -321,8 +322,7 @@ ul {
     font-size: 115%;
 	}
 
-.material-icons{ color:#5D5C61;
-                 vertical-align: bottom;
+.material-icons{ display: none;
                  }
 
 	
