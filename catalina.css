@@ -707,7 +707,7 @@ div.dropdown{
 		   background-image: url(img/euro.png);
 		   background-repeat: no-repeat;
 		   background-position: right top;
-		   background-size: 50% 60%;
+		   background-size: 70% 50%;
 		   }
 	#div6{ width: 20%;
 			float: right;
@@ -716,7 +716,7 @@ div.dropdown{
 			background-image: url(img/calendar.png);
 			background-repeat: no-repeat;
 			background-position: right top;
-			background-size: 50% 60%;
+			background-size: 70% 50%;
 			}	
     #div7{ width: 20%;
 		   margin: 0% auto;
@@ -725,7 +725,7 @@ div.dropdown{
 		   background-image: url(img/bien.png);
 		   background-repeat: no-repeat;
 		   background-position: right top;
-		   background-size: 50% 60%;
+		   background-size: 70% 50%;
 		   }  
    
 		
@@ -763,7 +763,7 @@ div.dropdown{
 		padding-right: 2%;
 		text-align: right;
 		float: right;
-		width:45%;
+		width:60%;
 		color: #000000;
 	}	
 
