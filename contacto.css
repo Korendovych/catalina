@@ -305,6 +305,8 @@ ul {
     }
 
 #div1{ margin: 0% auto;
+	padding-left: 2%;
+	padding-right: 2%;
         width: 90%;
         height: 150px;
 	padding-left: 0%;
@@ -315,13 +317,12 @@ ul {
 	z-index: 1;
 	border-style: solid;
   border-color: red;
+	text-align: center;
 }
 
-#div1:hover { background-image: url(img/logo2.png);       
-}
 
 #div2{ margin: 0% auto;
-            width: 70%;
+            width: 90%;
             height: 250px;
         text-align: center;
 	padding-right: 0%;
