@@ -296,8 +296,8 @@ ul {
 
 #art1{padding-top: 15%;
 	padding-bottom: 3%;
-	padding-left: 5%;
-	padding-right: 5%;
+	padding-left: 2%;
+	padding-right: 2%;
 	margin: 0% auto;
 	width: 90%;
 	height: 40%;
@@ -306,7 +306,7 @@ ul {
 #div1{ float: left;
         width: 35%;
         height: 150px;
-	padding-left: 1%;
+	padding-left: 0%;
         background-image: url(img/logo3.png);
         background-repeat: no-repeat;
         background-position: right top;
@@ -321,7 +321,7 @@ ul {
             width: 60%;
             height: 250px;
         text-align: left;
-	padding-right: 1%;
+	padding-right: 0%;
 }        
 
 #f1{padding-top: 3%;
