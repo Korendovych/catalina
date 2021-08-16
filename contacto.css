@@ -285,7 +285,7 @@ ul {
            height: 600px;
            margin: 0% auto;
         background-color: white;
-	background-imagine: none;
+	background-image: none;
 }
 #art0{padding-top: 25%;
 	margin: 0% auto;
@@ -307,7 +307,7 @@ ul {
         background-image: url(img/logo3.png);
         background-repeat: no-repeat;
         background-position: right top;
-        background-size: 60% 70%;
+        background-size: 60% 60%;
 	z-index: 1;
 }
 
@@ -317,14 +317,14 @@ ul {
 #div2{ margin: 0% auto;
             width: 70%;
             height: 250px;
-        text-align: left;
+        text-align: center;
 	padding-right: 0%;
 }        
 
 #f1{padding-top: 3%;
     padding-bottom: 0%;
     padding-left: 5%;
-    font-size: 130%;
+    font-size: 140%;
     color: #5D5C61;
 	list-style-type: none;
 	text-decoration: none;
@@ -332,18 +332,17 @@ ul {
 
 #f2{padding-top: 3%;
     padding-bottom: 0%;
-    font-size: 115%;	
+    font-size: 125%;	
 	list-style-type: none;
 	text-decoration: none;
 }
 
 #f3{padding-top: 1%;
     padding-bottom: 0%;
-    font-size: 125%;
+    font-size: 135%;
 	padding-left: 3%;
 	list-style-type: none;
 	text-decoration: none;
-	padding-right: 2%;
 	}
 
 span.material-icons{ 
