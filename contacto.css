@@ -311,6 +311,7 @@ ul {
         background-size: 70% 80%;
 	z-index: 1;
 	text-align: center;
+	background-color: none;
 }
 
 
@@ -325,7 +326,7 @@ ul {
 #f1{padding-top: 3%;
     padding-bottom: 0%;
     padding-left: 5%;
-    font-size: 200%;
+    font-size: 180%;
     color: #5D5C61;
 	list-style-type: none;
 	text-decoration: none;
