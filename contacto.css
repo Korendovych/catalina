@@ -287,13 +287,13 @@ ul {
         background-color: white;
 	background-image: none;
 }
-#art0{padding-top: 25%;
+#art0{padding-top: 20%;
 	margin: 0% auto;
 	width: 100%;
 	border-style: solid;
   border-color: grey;}
 
-#art1{padding-top: 15%;
+#art1{padding-top: 10%;
 	padding-bottom: 3%;
 	padding-left: 2%;
 	padding-right: 2%;
@@ -311,7 +311,7 @@ ul {
         background-image: url(img/logo3.png);
         background-repeat: no-repeat;
         background-position: top;
-        background-size: 60% 80%;
+        background-size: 70% 80%;
 	z-index: 1;
 	border-style: solid;
   border-color: red;
@@ -322,6 +322,7 @@ ul {
 #div2{ margin: 0% auto;
             width: 100%;
             height: 250px;
+	padding-top: 3%;
         text-align: center;
 	padding-right: 0%;
 	border-style: solid;
@@ -344,7 +345,7 @@ ul {
 	text-decoration: none;
 }
 
-#f3{padding-top: 1%;
+#f3{padding-top: 3%;
     padding-bottom: 0%;
     font-size: 135%;
 	padding-left: 3%;
