@@ -290,8 +290,7 @@ ul {
 #art0{padding-top: 15%;
 	margin: 0% auto;
 	width: 100%;
-	border-style: solid;
-  border-color: grey;}
+}
 
 #art1{padding-top: 10%;
 	padding-bottom: 3%;
@@ -300,8 +299,6 @@ ul {
 	margin: 0% auto;
 	width: 90%;
 	height: 40%;
-	border-style: solid;
-  border-color: green;
     }
 
 #div1{ margin: 0% auto;
@@ -313,8 +310,6 @@ ul {
         background-position: top;
         background-size: 70% 80%;
 	z-index: 1;
-	border-style: solid;
-  border-color: red;
 	text-align: center;
 }
 
@@ -325,14 +320,12 @@ ul {
 	padding-top: 3%;
         text-align: center;
 	padding-right: 0%;
-	border-style: solid;
-  border-color: yellow;
 }        
 
 #f1{padding-top: 3%;
     padding-bottom: 0%;
     padding-left: 5%;
-    font-size: 140%;
+    font-size: 200%;
     color: #5D5C61;
 	list-style-type: none;
 	text-decoration: none;
@@ -340,14 +333,14 @@ ul {
 
 #f2{padding-top: 3%;
     padding-bottom: 0%;
-    font-size: 125%;	
+    font-size: 145%;	
 	list-style-type: none;
 	text-decoration: none;
 }
 
 #f3{padding-top: 3%;
     padding-bottom: 0%;
-    font-size: 135%;
+    font-size: 155%;
 	padding-left: 3%;
 	list-style-type: none;
 	text-decoration: none;
