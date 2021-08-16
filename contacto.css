@@ -294,7 +294,7 @@ ul {
 	margin: 0% auto;
 	width: 100%;}
 
-#art1{padding-top: 3%;
+#art1{padding-top: 10%;
 	padding-bottom: 3%;
 	padding-left: 5%;
 	padding-right: 5%;
@@ -309,7 +309,7 @@ ul {
         background-image: url(img/logo3.png);
         background-repeat: no-repeat;
         background-position: right top;
-        background-size: 100% 80%;
+        background-size: 100% 70%;
 		z-index: 1;
 }
 
@@ -317,14 +317,14 @@ ul {
 }
 
 #div2{ float: right;
-            width: 55%;
+            width: 70%;
             height: 250px;
         text-align: left;
 }        
 
 #f1{padding-top: 3%;
     padding-bottom: 0%;
-    padding-left: 10%;
+    padding-left: 0%;
     font-size: 110%;
     color: #5D5C61;
 	}
