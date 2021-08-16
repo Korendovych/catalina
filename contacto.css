@@ -284,11 +284,7 @@ ul {
            width: 100%;
            height: 600px;
            margin: 0% auto;
-	background-image: url(img/mapa2.png);
         background-color: white;
-        background-repeat: no-repeat;
-        background-position: right top;
-        background-size: 100% 100%;
 }
 #art0{padding-top: 25%;
 	margin: 0% auto;
@@ -301,7 +297,7 @@ ul {
 	margin: 0% auto;
 	width: 90%;
 	height: 40%;
-    background-color: rgba(197, 194, 194, 0.575);}
+    }
 
 #div1{ float: left;
         width: 33%;
