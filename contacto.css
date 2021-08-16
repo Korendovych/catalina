@@ -285,6 +285,7 @@ ul {
            height: 600px;
            margin: 0% auto;
         background-color: white;
+	background-imagine: none;
 }
 #art0{padding-top: 25%;
 	margin: 0% auto;
@@ -299,22 +300,22 @@ ul {
 	height: 40%;
     }
 
-#div1{ float: left;
-        width: 33%;
+#div1{ margin: 0% auto;
+        width: 90%;
         height: 150px;
 	padding-left: 0%;
         background-image: url(img/logo3.png);
         background-repeat: no-repeat;
         background-position: right top;
-        background-size: 100% 70%;
-		z-index: 1;
+        background-size: 60% 70%;
+	z-index: 1;
 }
 
 #div1:hover { background-image: url(img/logo2.png);       
 }
 
-#div2{ float: right;
-            width: 64%;
+#div2{ margin: 0% auto;
+            width: 70%;
             height: 250px;
         text-align: left;
 	padding-right: 0%;
