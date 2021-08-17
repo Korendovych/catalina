@@ -485,21 +485,15 @@ section#Conocer{
            padding: 3%;
             margin: 0% auto;
             height: 100%;
-	border-style: solid;
-  border-color: red;
             }
 
 #art2{width: 100%;
        padding-bottom: 3%;
-       margin: 0% auto;
-	border-style: solid;
-  border-color: green;}
+       margin: 0% auto;}
 
 #art3{width: 100%;
         padding-bottom: 3%;
-        margin: 0% auto;
-	border-style: solid;
-  border-color: blue;}
+        margin: 0% auto;}
 
 #div1{ width: 49%;
        padding: 1%;
@@ -517,21 +511,17 @@ section#Conocer{
     padding: 3%;
      margin: 0% auto;
      height: 100%;
-	border-style: solid;
-  border-color: yellow;
      }
 
 #art4{width: 100%;
     padding-bottom: 3%;
     margin: 0% auto;
-	border-style: solid;
-  border-color: pink;}
+}
 
 #art5{width: 100%;
      padding-bottom: 3%;
      margin: 0% auto;
-	border-style: solid;
-  border-color: orange;}
+}
 
 #servi{ width: 100%;
         height: 100%;}
