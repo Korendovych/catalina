@@ -470,7 +470,7 @@ padding: 2%;
 
 #h{text-align: justify;
    padding: 3%;
-   font-size: 105%;
+   font-size: 110%;
 }  
 
 
@@ -485,15 +485,21 @@ section#Conocer{
            padding: 3%;
             margin: 0% auto;
             height: 500px;
+	border-style: solid;
+  border-color: red;
             }
 
 #art2{width: 95%;
        padding-bottom: 3%;
-       margin: 0% auto;}
+       margin: 0% auto;
+	border-style: solid;
+  border-color: green;}
 
 #art3{width: 95%;
         padding-bottom: 3%;
-        margin: 0% auto;}
+        margin: 0% auto;
+	border-style: solid;
+  border-color: blue;}
 
 #div1{ width: 49%;
        padding: 1%;
@@ -528,7 +534,7 @@ section#Conocer{
          color: #5d5c61be;
          padding-top: 3%;
         padding-bottom: 3%;
-        font-size: 105%;}  
+        font-size: 110%;}  
 #nombre:hover{color:#454447;}        
 
 #text{ padding-top: 2%;
@@ -536,7 +542,7 @@ section#Conocer{
     padding-left: 2%;
 padding-right: 2%;
 text-align: justify;
-font-size: 90%;}   
+font-size: 100%;}   
 
 #cont1{
 		padding-top: 4%;
@@ -565,7 +571,7 @@ font-size: 90%;}
 
 #foot{ width: 100%;
 	height: 100%;
-	padding-bottom: 1%;}	
+	padding-bottom: 3%;}	
 
 #fu1{margin:0% auto;
       width: 100%;
