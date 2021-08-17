@@ -481,21 +481,21 @@ section#Conocer{
 }
 
 
-#Trabajos{ width: 95%;
+#Trabajos{ width: 90%;
            padding: 3%;
             margin: 0% auto;
-            height: 500px;
+            height: 1000px;
 	border-style: solid;
   border-color: red;
             }
 
-#art2{width: 95%;
+#art2{width: 100%;
        padding-bottom: 3%;
        margin: 0% auto;
 	border-style: solid;
   border-color: green;}
 
-#art3{width: 95%;
+#art3{width: 100%;
         padding-bottom: 3%;
         margin: 0% auto;
 	border-style: solid;
