@@ -323,7 +323,7 @@ section#Reformas{
 		   height: 900px;
 		   }
 
-#art1{ width: 90%;
+#art1{ width: 100%;
 	margin: 0% auto;
 	text-align: center;
 	background-color: white;
@@ -337,7 +337,7 @@ section#Reformas{
 	 border-style: solid;
   border-color: red;
 	
-	        height: 400px;
+	        height: 300px;
 	}
 
 #div3{ margin: 0% auto;
