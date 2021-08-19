@@ -489,14 +489,16 @@ section#Conocer{
 #Trabajos{ width: 90%;
            padding: 3%;
             margin: 0% auto;
-            height: 100%;
+            height: 2000px;
 	border-style: solid;
   border-color: yellow;
             }
 
 #art2{width: 100%;
        padding-bottom: 3%;
-       margin: 0% auto;}
+       margin: 0% auto;
+	border-style: solid;
+  border-color: pink;}
 
 #art3{width: 100%;
         padding-bottom: 3%;
