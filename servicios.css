@@ -489,7 +489,7 @@ section#Conocer{
 #Trabajos{ width: 90%;
            padding: 3%;
             margin: 0% auto;
-            height: 2000px;
+            height: 900px;
 	border-style: solid;
   border-color: yellow;
             }
@@ -497,8 +497,7 @@ section#Conocer{
 #art2{width: 100%;
        padding-bottom: 3%;
        margin: 0% auto;
-	border-style: solid;
-  border-color: pink;}
+	}
 
 #art3{width: 100%;
         padding-bottom: 3%;
@@ -520,6 +519,8 @@ section#Conocer{
     padding: 3%;
      margin: 0% auto;
      height: 100%;
+	border-style: solid;
+  border-color: pink;
      }
 
 #art4{width: 100%;
