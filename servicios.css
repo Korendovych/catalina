@@ -454,8 +454,6 @@ section#Reformas{
     background-color: white;
     width: 100%;
     height: 300px;	
-	border-style: solid;
-  border-color: red;
     }
 
 
@@ -464,8 +462,6 @@ margin: 0% auto;
 width: 80%;
 height: 60%;
 padding: 2%;
-	border-style: solid;
-  border-color: green;
 }
 
 #c2{font-size: 180%;
@@ -489,9 +485,7 @@ section#Conocer{
 #Trabajos{ width: 90%;
            padding: 3%;
             margin: 0% auto;
-            height: 900px;
-	border-style: solid;
-  border-color: yellow;
+            height: 800px;
             }
 
 #art2{width: 100%;
@@ -519,8 +513,6 @@ section#Conocer{
     padding: 3%;
      margin: 0% auto;
      height: 900px;
-	border-style: solid;
-  border-color: pink;
      }
 
 #art4{width: 100%;
