@@ -158,8 +158,6 @@ ul {
 		   background-color: white;
 		   width: 100%;
 		   height: 6000px;
-	 border-style: solid;
-  border-color: red;
 		   }
 
 #art1{ width: 77%;
@@ -168,8 +166,6 @@ ul {
 	background-color: white;
 	padding: 0%;
 	height: 100%;
-	 border-style: solid;
-  border-color: green;
 }		   
 
 #div0{ float: left;
@@ -216,8 +212,6 @@ ul {
         float: left;
         width:40%;
         color: #000000;
-	     	border-style: solid;
-  border-color: yellow;
     }	   
     
     #cont2{
@@ -230,16 +224,13 @@ ul {
         float: right;
         width:40%;
         color: #000000;
-	    	border-style: solid;
-  border-color: pink;
     }	
     
     
     #foot{ width: 100%;
         height: 400px;
         padding-bottom: 1%;
-	border-style: solid;
-  border-color: orange;}	
+}	
     
     #fu1{margin:0% auto;
           height: 400px;	    
@@ -247,8 +238,7 @@ ul {
           padding-right: 2%;
           padding-left: 2%;
           padding-bottom: 1%;
-	border-style: solid;
-  border-color: lightblue;}
+}
 
 
 
