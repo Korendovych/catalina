@@ -236,7 +236,7 @@ ul {
     
     
     #foot{ width: 100%;
-        height: 100%;
+        height: 200px;
         padding-bottom: 1%;
 	border-style: solid;
   border-color: orange;}	
