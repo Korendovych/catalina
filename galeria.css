@@ -258,7 +258,8 @@ ul {
 
 
 @media (max-width: 767px) and (min-width: 0px) {
-	*{box-sizing: border-box;}	
+	*{box-sizing: border-box; 
+	background-color: white;}	
 
 
 	
@@ -281,6 +282,7 @@ ul {
 	color: #5D5C61;
 	text-shadow: 1px 1px 0.5px 0.5px;
 	font-size: 100%;
+	background-color: white;
 }	
 	
 .bar {
@@ -298,6 +300,7 @@ ul {
 	cursor: pointer;
 	z-index: 1;
 	font-size: 90%; 
+	background-color: white;
 }	
 	
 	
@@ -331,6 +334,7 @@ section#Reformas{
 	   width: 100%;
 	   padding-bottom: 2%;
 	       height: 300px;
+	background-color: white;
 	}
 
 div#div3{ display: none;
@@ -341,6 +345,7 @@ div#div3{ display: none;
 	width: 100%;
 	padding-bottom: 2%;
 	       height: 500px;
+	background-color: white;
 }	
 
 #c2{ margin: 0% auto;
@@ -353,13 +358,16 @@ div#div3{ display: none;
 	 color: #5D5C61;
 	 letter-spacing: 3px;
 	 text-shadow: 1px 1px 0.5px 0.5px;
+	background-color: white;
 	 }
 
 	#fotos{ width: 100%;
-	        height: 100%;}
+	        height: 100%;
+	background-color: white;}
 	
 #fotos:hover{
 	opacity: 0.8;
+	background-color: white;
 }
 
 
@@ -380,6 +388,7 @@ div#div3{ display: none;
 		float: left;
 		width:39%;
 		color: #000000;
+	background-color: white;
 	}	   
 
 	#cont2{
@@ -392,12 +401,14 @@ div#div3{ display: none;
 		float: right;
 		width:58%;
 		color: #000000;
+		background-color: white;
 }	
 
 
 #foot{ width: 100%;
 	height: 100%;
 	padding-bottom: 3%;
+	background-color: white;
 }	
 
 #fu1{margin:0% auto;
@@ -405,6 +416,7 @@ div#div3{ display: none;
 	  padding-right: 2%;
 	  padding-left: 2%;
 	  padding-bottom: 1%;
+	background-color: white;
 }
 		
 }	
