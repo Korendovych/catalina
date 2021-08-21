@@ -423,6 +423,7 @@ font-size: 110%;}
 	color: #5D5C61;
 	text-shadow: 1px 1px 0.5px 0.5px;
 	font-size: 100%;
+	background-color: white;
 }	
 	
 .bar {
@@ -440,6 +441,7 @@ font-size: 110%;}
 	cursor: pointer;
 	z-index: 1;
 	font-size: 90%; 
+	background-color: white;
 }	
 	
 	
@@ -454,6 +456,7 @@ section#Reformas{
     background-color: white;
     width: 100%;
     height: 300px;	
+    background-color: white;
     }
 
 
@@ -462,16 +465,19 @@ margin: 0% auto;
 width: 80%;
 height: 60%;
 padding: 2%;
+background-color: white;
 }
 
 #c2{font-size: 180%;
     color: #5D5C61;
     text-align: center;
-    padding: 2%;}
+    padding: 2%;
+background-color: white;}
 
 #h{text-align: justify;
    padding: 3%;
    font-size: 110%;
+	background-color: white;
 }  
 
 
@@ -486,61 +492,73 @@ section#Conocer{
            padding: 3%;
             margin: 0% auto;
             height: 800px;
+	background-color: white;
             }
 
 #art2{width: 100%;
        padding-bottom: 3%;
        margin: 0% auto;
+	background-color: white;
 	}
 
 #art3{width: 100%;
         padding-bottom: 3%;
-        margin: 0% auto;}
+        margin: 0% auto;
+	background-color: white;}
 
 #div1{ width: 49%;
        padding: 1%;
-       float: left;}
+       float: left;
+	background-color: white;}
 
 #div2{ width: 49%;
         padding: 1%;
-        float: right;}  
+        float: right;
+	background-color: white;}  
         
 #servi:hover { 
     opacity: 0.6;
+	background-color: white;
 }
 
 #Trabajos2{ width: 90%;
     padding: 3%;
      margin: 0% auto;
      height: 900px;
+	background-color: white;
      }
 
 #art4{width: 100%;
     padding-bottom: 3%;
     margin: 0% auto;
+	background-color: white;
 }
 
 #art5{width: 100%;
      padding-bottom: 3%;
      margin: 0% auto;
+	background-color: white;
 }
 
 #servi{ width: 100%;
-        height: 100%;}
+        height: 100%;
+	background-color: white;}
 
 #nombre{ text-align: center;
          color: #5d5c61be;
          padding-top: 3%;
         padding-bottom: 3%;
         font-size: 110%;}  
-#nombre:hover{color:#454447;}        
+#nombre:hover{color:#454447;
+	background-color: white;}        
 
 #text{ padding-top: 2%;
     padding-bottom: 3%;
     padding-left: 2%;
 padding-right: 2%;
 text-align: justify;
-font-size: 100%;}   
+font-size: 100%;
+	background-color: white;}   
 
 #cont1{
 		padding-top: 4%;
@@ -552,6 +570,7 @@ font-size: 100%;}
 		float: left;
 		width:39%;
 		color: #000000;
+	background-color: white;
 	}	   
 
 	#cont2{
@@ -564,18 +583,21 @@ font-size: 100%;}
 		float: right;
 		width:58%;
 		color: #000000;
+		background-color: white;
 	}	
 
 
 #foot{ width: 100%;
 	height: 100%;
-	padding-bottom: 3%;}	
+	padding-bottom: 3%;
+	background-color: white;}	
 
 #fu1{margin:0% auto;
       width: 100%;
 	  padding-right: 2%;
 	  padding-left: 2%;
-	  padding-bottom: 1%;}
+	  padding-bottom: 1%;
+	background-color: white;}
 	
 	
 	
