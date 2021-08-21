@@ -560,7 +560,7 @@ ul {
        margin: 0% auto;
 	   text-align: center;
 	   padding-bottom: 5%;
-	background-color: white;}
+	}
 
 .button {
 	border: none;
@@ -611,7 +611,7 @@ ul {
 		padding-bottom: 2%;
     	width: 60%;
 	    height: 60%;
-	  background-color: white;
+	 
 	}
 
 	.button2 {
