@@ -260,6 +260,7 @@ ul {
 	color: #5D5C61;
 	text-shadow: 1px 1px 0.5px 0.5px;
 	font-size: 100%;
+	background-color: white;
 }	
 	
 .bar {
@@ -277,6 +278,7 @@ ul {
 	cursor: pointer;
 	z-index: 1;
 	font-size: 90%; 
+	background-color: white;
 }	
 
 
@@ -290,6 +292,7 @@ ul {
 #art0{padding-top: 15%;
 	margin: 0% auto;
 	width: 100%;
+	background-color: white;
 }
 
 #art1{padding-top: 10%;
@@ -312,7 +315,7 @@ ul {
         background-size: 70% 90%;
 	z-index: 1;
 	text-align: center;
-	background-color: none;
+	background-color: white;
 }
 
 
@@ -322,6 +325,7 @@ ul {
 	padding-top: 3%;
         text-align: center;
 	padding-right: 0%;
+	background-color: white;
 }        
 
 #f1{padding-top: 3%;
@@ -331,6 +335,7 @@ ul {
     color: #5D5C61;
 	list-style-type: none;
 	text-decoration: none;
+	background-color: white;
 	}
 
 #f2{padding-top: 3%;
@@ -339,6 +344,7 @@ ul {
 	list-style-type: none;
 	text-decoration: none;
 	 color: #B1A296;
+	background-color: white;
 }
 
 #f3{padding-top: 3%;
@@ -348,6 +354,7 @@ ul {
 	list-style-type: none;
 	text-decoration: none;
 	 color: #B1A296;
+	background-color: white;
 	}
 
 span.material-icons{ 
