@@ -281,7 +281,7 @@ ul {
 	height: 100%;
 	color: #5D5C61;
 	text-shadow: 1px 1px 0.5px 0.5px;
-	font-size: 100%;
+	font-size: 90%;
 	background-color: white;
 }	
 	
@@ -384,7 +384,7 @@ div#div3{ display: none;
 		padding-left: 2%;
 		padding-right: 0%;
 		text-align: left;
-		font-size: 90%;
+		font-size: 80%;
 		float: left;
 		width:39%;
 		color: #000000;
@@ -392,7 +392,7 @@ div#div3{ display: none;
 	}	   
 
 	#cont2{
-		font-size: 100%;
+		font-size: 90%;
 		padding-top: 4%;
 		padding-bottom: 3%;
 		padding-left: 0%;
