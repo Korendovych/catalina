@@ -456,7 +456,7 @@ ul {
 	height: 100%;
 	color: #5D5C61;
 	text-shadow: 1px 1px 0.5px 0.5px;
-	font-size: 100%;
+	font-size: 90%;
 	background-color: white;
 }	
 	
@@ -694,7 +694,7 @@ ul {
 		   background-size: 65% 50%;
 	    background-color: white;
 		   }  
-   
+	#text{font-size: 80%;  }
 		
 	#div5:hover  {background-image: url(img/euro2.png);}  
 	#div6:hover  {background-image: url(img/calendar2.png);}  
@@ -719,7 +719,7 @@ ul {
 		padding-left: 2%;
 		padding-right: 0%;
 		text-align: left;
-		font-size: 90%;
+		font-size: 80%;
 		float: left;
 		width:39%;
 		color: #000000;
@@ -727,7 +727,7 @@ ul {
 	}	   
 
 	#cont2{
-		font-size: 100%;
+		font-size: 90%;
 		padding-top: 4%;
 		padding-bottom: 0%;
 		padding-left: 0%;
